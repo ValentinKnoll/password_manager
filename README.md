@@ -1,5 +1,6 @@
 Password manager for storing and using private passwords. 
 The database is SQLite and can be stored on any external storage device.
+
 Author: Valentin Knoll
 
 - You need to activate the SQLite extension
