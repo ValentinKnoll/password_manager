@@ -1,0 +1,1 @@
+TASKKILL /F /IM php.exe /T
