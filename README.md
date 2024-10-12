@@ -7,5 +7,7 @@ Author: Valentin Knoll
 - You need to activate the PDO extension
 
 An example of starting a PHP server:
+
 $ php -S localhost:8000 password-manager.php
+
 $ php -S 0.0.0.0:8000 password-manager.php
